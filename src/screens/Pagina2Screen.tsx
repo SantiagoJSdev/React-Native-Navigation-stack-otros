@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { Button, Text, View } from 'react-native'
 import { useNavigation } from '@react-navigation/core';
-import { styles } from '../theme/AppTheme'; //ivieri
+import { styles } from '../theme/AppTheme'; 
 // interface RootParamList extends ProfileScreenNavigationProp {}
 export const Pagina2Screen = () => {
 
